@@ -16,11 +16,9 @@ class Main {
                 sb.append(ch);
             }
         }
-        String replaced = sb.toString();
-        System.out.println("+"+replaced.replace(" ","+")+"+");
-       //System.out.println(sb.toString());
-        String nstr2 = str.replace(" ","|");
-        System.out.println("|"+nstr2+"|");
+       String replacedString = sb.toString();
+        System.out.println("+"+replacedString.replace(" ","+")+"+");
+        System.out.println("|"+str.replace(" ","|")+"|");
     }
 }
 
