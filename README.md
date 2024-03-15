@@ -10,12 +10,12 @@
 ###
 <p algn="right">ProgramDescrption : StringReplacePattern.java
                     Daily Test Date :: 14-03-24
-ProgramDescrption : UniqueDigitSize.java
-                    Daily Challenge Date :: 14-03-24
-ProgramDescrption : EqualToIndex.java
-                    Daily Test Date :: 15-03-24
-ProgramDescrption : FirstKIntegers.java
-                    Daily Test Date :: 15-03-24
+<p>ProgramDescrption : UniqueDigitSize.java
+                    Daily Challenge Date :: 14-03-24</p>
+<p>ProgramDescrption : EqualToIndex.java
+                    Daily Test Date :: 15-03-24</p>
+<p>ProgramDescrption : FirstKIntegers.java
+                    Daily Test Date :: 15-03-24</p>
 
 </p>
 
