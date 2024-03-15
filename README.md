@@ -13,7 +13,7 @@
 <p>ProgramDescrption : UniqueDigitSize.java
                     Daily Challenge Date :: 14-03-24</p>
 <p>ProgramDescrption : EqualToIndex.java
-                    Daily Test Date :: 15-03-24</p>
+                    Daily Challenge Date :: 15-03-24</p>
 <p>ProgramDescrption : FirstKIntegers.java
                     Daily Test Date :: 15-03-24</p>
 
