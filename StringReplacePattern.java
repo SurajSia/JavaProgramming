@@ -1,7 +1,7 @@
 /// CopyRights(cc) @ G.Sai Suraj(https://www.github.com./surajsia)
 //  source :: https://www.skillrack.com/
 //  Daily Test Date :: 14-03-24
-//  
+//  WARNING :: Name of the file is different , just change it what ever you want
 import java.util.*;
 class Main {
     public static void main(String[] args) {
