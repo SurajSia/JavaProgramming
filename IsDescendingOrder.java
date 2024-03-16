@@ -33,5 +33,6 @@ public class Main {
 // output :: no
 // explnation :: given elements are not in descending order..
 //intput :: 5 
-// output :: 50 45 34 23 20
+//           50 45 34 23 20
+// output :: yes
 // explanation :: given elements are in descending order...
