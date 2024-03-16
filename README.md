@@ -16,6 +16,7 @@
                     Daily Challenge Date :: 15-03-24</p>
 <p>ProgramDescrption : FirstKIntegers.java
                     Daily Test Date :: 15-03-24</p>
-
+<p>ProgramDescrption : SortByValFreq.java
+                    Daily Test Date :: 16-03-24</p>
 </p>
 
