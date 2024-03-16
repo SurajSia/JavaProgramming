@@ -7,7 +7,7 @@ import java.util.stream.*;
 class Main {
     
     public static void sortInOrder(String[] strarr) {
-        Map<String,Integer> map = new HashMap<String,Integer>();
+        Map<String,Integer> map = new TreeMap<String,Integer>();
         for(String num : strarr) {
             if(map.containsKey(num)) {
                 map.put(num,map.get(num)+1);
@@ -17,15 +17,18 @@ class Main {
             }
           
         }
-        Map<String, Integer> sortedMap = map.entrySet()
-                .stream()
-                .sorted(Map.Entry.comparingByValue())
-                .collect(Collectors.toMap(Map.Entry::getKey, Map.Entry::getValue, (e1, e2) -> e1, LinkedHashMap::new));
+       Map<String, Integer> sortedMap = new TreeMap<>(new Comparator<String>() {
+            @Override
+            public int compare(String o1, String o2) {
+                return map.get(o1).compareTo(map.get(o2));
+            }
+        });
+        sortedMap.putAll(map);
         Set<String> set = sortedMap.keySet();
         for(String s : set) {
-              for(int i=0;i<sortedMap.get(s);i++) {
-                  System.out.print(s+" ");
-              }
+            for(int i=0;i<sortedMap.get(s);i++) {
+                System.out.print(s+" ");
+            }
         }
     }
     public static void main(String[] args) {
