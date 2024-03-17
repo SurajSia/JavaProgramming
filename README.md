@@ -20,8 +20,7 @@
                     Daily Challenge Date :: 16-03-24</p>                   
 <p>ProgramDescrption : SortByValFreq.java
                     Daily Test Date :: 16-03-24</p>
-<p>ProgramDescrption : <p>ProgramDescrption : IsDescendingOrder.java
-                    Daily Challenge Date :: 16-03-24</p>
+<p>ProgramDescrption : IsDescendingOrder.java
                     Daily Challenge Date :: 17-03-24</p>
 </p>
 
