@@ -1,4 +1,7 @@
-/**
+/** CopyRights(cc) @ G.Sai Suraj(https://www.github.com./surajsia)
+    source :: https://www.skillrack.com/
+    Daily Challenge Date :: 17-03-24
+    WARNING :: Name of the file is different , just change it what ever you want
  * The program must accept N string values as the input.
  * The program must print the number of unique string values K among the N string values.
  * Then the program must print the unique string values in sorted order along with the positions that they have occurred as the output.
