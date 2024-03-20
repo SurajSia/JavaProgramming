@@ -26,5 +26,7 @@
                     Daily Test Date :: 18-03-24</p>
 <p>ProgramDescrption : ReformatString.java
                     Daily Challenge Date :: 19-03-24</p>
+<p>ProgramDescrption : FindSumSubstring.java
+                    Daily Challenge Date :: 20-03-24</p>
 </p>
 
