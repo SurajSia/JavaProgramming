@@ -34,5 +34,7 @@
                     Daily Challenge Date :: 24-03-24</p>
 <p>ProgramDescrption : CountSubsets.java
                     Daily Test Date :: 24-03-24</p>
+<p>ProgramDescrption : SumOfNumericals.java
+                    Daily Challenge Date :: 25-03-24</p>
 </p>
 
