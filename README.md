@@ -36,5 +36,7 @@
                     Daily Test Date :: 24-03-24</p>
 <p>ProgramDescrption : SumOfNumericals.java
                     Daily Challenge Date :: 25-03-24</p>
+<p>ProgramDescrption : CheckGivenK_Elements.java
+                    Daily Test Date :: 26-03-24</p>
 </p>
 
