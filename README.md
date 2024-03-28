@@ -42,6 +42,7 @@
                     Daily Challenge Date :: 27-03-24</p>
 <p>ProgramDescrption : TwoSumSubsetCount.java
                     Daily Challenge Date :: 28-03-24</p> 
-                    
+<p>ProgramDescrption : BinaryIndex.java
+                    Daily Test Date :: 28-03-24</p>                    
 </p>
 
