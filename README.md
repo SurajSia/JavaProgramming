@@ -40,5 +40,8 @@
                     Daily Test Date :: 26-03-24</p>
 <p>ProgramDescrption : RemoveK-ElmentFromLast.java
                     Daily Challenge Date :: 27-03-24</p>
+<p>ProgramDescrption : TwoSumSubsetCount.java
+                    Daily Challenge Date :: 28-03-24</p> 
+                    
 </p>
 
