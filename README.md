@@ -45,4 +45,7 @@
 <p>ProgramDescrption : BinaryIndex.java
                     Daily Test Date :: 28-03-24</p>                    
 </p>
+<p>ProgramDescrption : ToggleBinaryStirng.java
+                    Daily Challenge Date :: 19-06-24</p>                    
+</p>
 
