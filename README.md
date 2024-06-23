@@ -48,4 +48,7 @@
 <p>ProgramDescrption : ToggleBinaryStirng.java
                     Daily Challenge Date :: 19-06-24</p>                    
 </p>
+<p>ProgramDescrption : EmployeeBreakDuration.java
+                    Daily Test Date :: 19-06-24</p>                    
+</p>
 
