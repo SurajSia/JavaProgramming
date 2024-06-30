@@ -49,6 +49,8 @@
                     Daily Challenge Date :: 19-06-24</p>                    
 </p>
 <p>ProgramDescrption : EmployeeBreakDuration.java
-                    Daily Test Date :: 19-06-24</p>                    
+                    Daily Test Date :: 19-06-24</p>
+<p>ProgramDescrption : LargestDivisblePrefix.java
+                    Daily Test Date :: 22-06-24</p>
 </p>
 
