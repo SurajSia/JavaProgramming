@@ -52,5 +52,7 @@
                     Daily Test Date :: 19-06-24</p>
 <p>ProgramDescrption : LargestDivisblePrefix.java
                     Daily Test Date :: 22-06-24</p>
+<p>ProgramDescription : DivisiblilityCount.java
+                    Daily Challenge Date :: 30-6-2024</p>
 </p>
 
