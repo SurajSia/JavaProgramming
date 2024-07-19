@@ -54,5 +54,7 @@
                     Daily Test Date :: 22-06-24</p>
 <p>ProgramDescription : DivisiblilityCount.java
                     Daily Challenge Date :: 30-6-2024</p>
+<p>ProgramDescription : RectangleLists.java
+                    Daily Challenge Date :: 19-07-2024</p>
 </p>
 
