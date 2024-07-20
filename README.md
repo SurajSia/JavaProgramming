@@ -2,7 +2,7 @@
 
 [MIT](https://choosealicense.com/licenses/mit/)
 ## JavaProgramming
-<p align="left">[Skillrack](https://www.skillrack.com)</p>
+[Skillrack](https://www.skillrack.com)
 
 ###
 
