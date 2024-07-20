@@ -4,14 +4,11 @@
 ## JavaProgramming
 [Skillrack](https://www.skillrack.com)
 
-###
-
-[DailyChallenge :: Stared-Date :: 14-03-2024
-                DailyTest :: Started-Date :: 14-03-2024](https://github.com/SurajSia/JavaProgramming/blob/main/StringReplacePattern.java)
-
-###
-<p algn="right">ProgramDescrption : StringReplacePattern.java
-                    Daily Test Date :: 14-03-24
+##DailyChallenge :: Started :: 14-03-2024
+##DailyTest :: ;14=03-2024
+```
+         [ProgramDescrption : StringReplacePattern.java
+                    Daily Test Date :: 14-03-24](https://github.com/SurajSia/JavaProgramming/blob/main/StringReplacePattern.java)
 <p>ProgramDescrption : UniqueDigitSize.java
                     Daily Challenge Date :: 14-03-24</p>
 <p>ProgramDescrption : EqualToIndex.java
@@ -60,3 +57,4 @@
                     Daily Challenge Date :: 19-07-2024</p>
 </p>
 
+```
