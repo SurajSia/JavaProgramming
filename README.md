@@ -1,3 +1,6 @@
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 # JavaProgramming
 <p align="left">SkillRackProgramming</p>
 
