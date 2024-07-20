@@ -6,9 +6,8 @@
 
 ###
 
-<p align="left">DailyChallenge :: Stared-Date :: 14-03-2024
-                DailyTest :: Started-Date :: 14-03-2024
-</p>
+[DailyChallenge :: Stared-Date :: 14-03-2024
+                DailyTest :: Started-Date :: 14-03-2024](https://github.com/SurajSia/JavaProgramming/blob/main/StringReplacePattern.java)
 
 ###
 <p algn="right">ProgramDescrption : StringReplacePattern.java
