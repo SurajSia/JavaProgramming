@@ -11,7 +11,7 @@
 
  [ProgramDescrption : StringReplacePattern.javaDaily Test Date :: 14-03-24](https://github.com/SurajSia/JavaProgramming/blob/main/StringReplacePattern.java)
  [ProgramDescrption : UniqueDigitSize.java Daily Challenge Date :: 14-03-24](https://github.com/SurajSia/JavaProgramming/blob/main/UniqueDigitSize.java)
- [ProgramDescrption : EqualToIndex.java Daily Challenge Date :: 15-03-24</p> ]([)](https://github.com/SurajSia/JavaProgramming/blob/main/EqualToIndex.java)
+ [ProgramDescrption : EqualToIndex.java Daily Challenge Date :: 15-03-24</p> ](https://github.com/SurajSia/JavaProgramming/blob/main/EqualToIndex.java)
  [ProgramDescrption : FirstKInteger.java Daily Test Date :: 15-03-24](https://github.com/SurajSia/JavaProgramming/blob/main/FirstKIntegers.java)
  [ProgramDescrption : IsDescendingOrder.java Daily Challenge Date :: 16-03-24](https://github.com/SurajSia/JavaProgramming/blob/main/IsDescendingOrder.java)           
  [ProgramDescrption : SortByValFreq.java Daily Test Date :: 16-03-24](https://github.com/SurajSia/JavaProgramming/blob/main/SortByValueFreq.java)
