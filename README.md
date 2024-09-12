@@ -1,10 +1,13 @@
 # SkillRack Problem Sovling
 
 ![Skillrack Logo](https://scontent.fmaa1-2.fna.fbcdn.net/v/t39.30808-1/307303646_418923343694313_2803107132943635216_n.png?stp=dst-png_p200x200&_nc_cat=103&ccb=1-7&_nc_sid=f4b9fd&_nc_ohc=zmuB2UR3QnYQ7kNvgEn19jl&_nc_ht=scontent.fmaa1-2.fna&oh=00_AYDpBK_Wq4_o3UMnzZhCZodWIryEIDDPs7Tj5_LEkQIzgQ&oe=66A2B5C3)
-
 ## License
 
-[MIT License](https://choosealicense.com/licenses/mit/)
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/SurajSia/my-license/blob/main/README.md) file for details.
+
+---
+
+MIT License
 
 ## Java Programming
 
